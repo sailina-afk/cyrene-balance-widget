@@ -1,6 +1,3 @@
-node_modules/
-*.log
-.dsh-ops-update-*
-*.bak-*
+.dsh-ops-update-*.lock
+*.bak-probe-*
 .DS_Store
-Thumbs.db
